@@ -262,5 +262,8 @@ footer p {
 	.link li a{
 		flex-wrap: wrap;
 	}
+	.link ul{
+		width: 320px;
+	}
 }
 
